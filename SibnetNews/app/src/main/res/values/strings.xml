@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SibnetNews</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title1">Новости Sibnet</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="bot_menu">
+        <item>Лента</item>
+        <item>Политика</item>
+        <item>Экономика</item>
+        <item>Общество</item>
+        <item>Происшествия</item>
+        <item>Наука и техника</item>
+        <item>E-Business</item>
+        <item>Игры</item>
+        <item>Авто</item>
+        <item>Спорт</item>
+    </string-array>
+    <string name="title_activity_view_new">ViewNewActivity</string>
+</resources>
